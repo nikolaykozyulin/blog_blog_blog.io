@@ -1,10 +1,14 @@
 ---
-layout: post
 title: Here is the title of the post
-category: blog
-tags: [tags for the post, is here]  
+date: 2013-01-15 00:00:00 Z
+categories:
+- blog
+tags:
+- tags for the post
+- is here
+layout: post
 summary: Here is a summary of the post
-image: /img/blog/Thumb-0.jpg
+image: "/img/blog/Thumb-0.jpg"
 ---
 
 This is a template with masonry to get the theme
